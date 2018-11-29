@@ -90,7 +90,7 @@ CREATE TABLE rng_user(
   email VARCHAR(64),
   phone VARCHAR(16),
 
-  avatar VARCHAR(128),        #头像图片路径
-  user_name VARCHAR(32),      #用户名，如王小明
-  gender INT                  #性别  0-女  1-男
+  avatar VARCHAR(128),        
+  user_name VARCHAR(32),      
+  gender INT                  
 );
